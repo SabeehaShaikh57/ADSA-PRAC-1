@@ -1,4 +1,5 @@
-# ADSA-PRAC-1
+# ADSA LAB
+PRAC-1
 To Implement Merge Sort
 
 #include <stdio.h>
